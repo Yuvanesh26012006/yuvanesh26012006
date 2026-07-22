@@ -1,7 +1,5 @@
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=378ADD&height=200&section=header&text=Hi%20I'm%20Yuvanesh%20P%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer&descAlignY=58&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=2000&color=378ADD&center=true&vCenter=true&width=940&lines=Software+Developer)](https://git.io/typing-svg)
-
 ---
 
 ## About Me
