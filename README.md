@@ -1,99 +1,90 @@
-<!-- Banner / Header -->
-<div align="center">
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=378ADD&height=200&section=header&text=Hi%20I'm%20Yuvanesh%20P%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20·%20Building%20things%20that%20matter&descAlignY=58&descAlign=50)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=378ADD&height=200&section=header&text=Hi%20I'm%20Yuvnesh%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20·%20Building%20things%20that%20matter&descAlignY=58&descAlign=50" width="100%" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=2000&color=378ADD&center=true&vCenter=true&width=940&lines=Hello+there%2C+I+am+Yuvanesh+P;A+Full+Stack+Java+%26+React+Developer;A+Spring+Boot+%26+Angular+Enthusiast)](https://git.io/typing-svg)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1500&color=378ADD&center=true&vCenter=true&width=500&lines=Building+elegant+software.;Solving+real-world+problems.;Always+learning%2C+always+shipping.;Java+%2B+React+%3D+💻)
+---
 
-![Open to work](https://img.shields.io/badge/Open%20to%20Work-✓-22c55e?style=flat-square&labelColor=0d1117)
-![Remote](https://img.shields.io/badge/Remote%20Friendly-✓-378ADD?style=flat-square&labelColor=0d1117)
-![Location](https://img.shields.io/badge/India-📍-EF9F27?style=flat-square&labelColor=0d1117)
-![Student](https://img.shields.io/badge/B.E%2FB.Tech-Student-7F77DD?style=flat-square&labelColor=0d1117)
+## About Me
 
-</div>
+<img align="right" alt="Developer Working Animation" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="300"/>
+
+- **B.E / B.Tech – Computer Science / IT**, VSB Engineering College region
+- **Full-Stack Developer** — Java backend + React frontend
+- Solving **DSA problems** daily on LeetCode & GeeksforGeeks
+- Experienced in **REST API design**, **JWT authentication**, and **Spring Boot**
+- Exploring **Cloud Architecture** and **AWS**
+- **Open to Work** — Remote-friendly 🌍
+- Debugging enthusiast: `console.log` and proud of it ⚡
+
+**Email:** palanivelyuvnesh@gmail.com
+
+---
+
+## Tech Stack
+
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+
+---
+
+## Featured Projects
+
+- **AI Email Assistant** — Python, Streamlit, LLM API  
+  Smart email assistant that drafts, summarises & replies to emails using AI. Built with a clean UI and LLM integration.
+
+- **Recursion Visualizer** — JavaScript, React, Canvas  
+  Interactive tool to visualise recursive function calls as animated tree structures — great for learning DSA concepts.
+
+- **InfoThiranAI** — Chrome Extension, JavaScript, AI  
+  Chrome extension & AI assistant helping students analyse information, generate smart notes, and understand concepts faster. Improves student productivity and learning efficiency.
+
+- **Portfolio Website** — TypeScript  
+  Personal portfolio showcasing projects, skills, and experience as a developer.
+
+---
+
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yuvanesh26)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Yuvanesh26/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/yuvaneshpalanivel)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yuvnex)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palanivelyuvnesh@gmail.com)
+
+---
+
+## Current Focus
+
+- Building end-to-end full-stack applications with Spring Boot & React
+- Deepening knowledge of **Cloud Architecture** and **AWS**
+- Practicing DSA daily on LeetCode and GeeksforGeeks
+- Strengthening Spring Boot, Microservices, and React fundamentals
+
+---
+
+## GitHub Stats
+
+![Yuvanesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yuvnex&show_icons=true&theme=default&hide_border=true&count_private=true&rank_icon=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvnex&layout=compact&theme=default&hide_border=true&langs_count=6)
+
+---
+
+## Coding Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yuvnex&theme=minimal&hide_border=true&area=true&color=378ADD&line=378ADD&point=378ADD)
 
 ---
 
 > *"First, solve the problem. Then, write the code."* — John Johnson
 
----
-
-## 🙋‍♂️ About Me
-
-| 🔭 Working on | Full-stack web apps & Java backend services |
-|---|---|
-| 🌱 Learning | Spring Boot · Cloud Architecture · DSA |
-| 💬 Ask me about | React, Java, JavaScript, Node.js & AWS |
-| 📫 Reach me at | palanivelyuvnesh@gmail.com |
-| ⚡ Fun fact | I debug with `console.log` and I'm proud of it |
-
----
-
-## 🛠️ Skills & Tech Stack
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📚 Currently Learning
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-60%25-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Cloud Architecture](https://img.shields.io/badge/Cloud%20Architecture-40%25-378ADD?style=flat-square&logo=amazon-aws&logoColor=white)
-![DSA / LeetCode](https://img.shields.io/badge/DSA%20%2F%20LeetCode-75%25-EF9F27?style=flat-square&logo=leetcode&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| 🤖 [**AI Email Assistant**](https://github.com/Yuvnex/ai-email-assistant) | Smart email assistant that drafts, summarises & replies to emails using AI. Built with a clean UI and LLM integration. | Python · Streamlit · API |
-| 🔁 [**Recursion Visualizer**](https://github.com/Yuvnex/recursion-visualizer) | Interactive tool to visualise recursive function calls as animated tree structures. Great for learning DSA concepts. | JavaScript · React · Canvas |
-| 🔁 [**InfoThiranAI**](https://github.com/Yuvnex/InfoThiranAI) | Chrome extension & AI assistant that helps students analyze information, generate smart notes, and understand concepts quickly. Students can improve productivity and learning efficiency. | Chrome Extension · JavaScript · AI · கல்வி & அறிவு |
-
-</div>
-
----
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yuvnex&show_icons=true&theme=default&hide_border=true&count_private=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvnex&layout=compact&theme=default&hide_border=true&langs_count=6" />
-
-</div>
-
-
-## 📅 Coding Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuvnex&theme=minimal&hide_border=true&area=true&color=378ADD&line=378ADD&point=378ADD" width="100%" />
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yuvnex/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palanivelyuvnex@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yuvnex)
-
-<br/>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Yuvnex&style=flat-square&color=378ADD)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=378ADD&height=100&section=footer" width="100%" />
-
-</div>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=378ADD&height=100&section=footer)
