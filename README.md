@@ -9,9 +9,9 @@
 <img align="right" alt="Developer Working Animation" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="300"/>
 
 - **B.E / B.Tech – Computer Science / IT**, VSB Engineering College region
-- **Full-Stack Developer** — Java backend + React frontend
+- **Software Developer** — Java backend + React frontend
 - Solving **DSA problems** daily on LeetCode & GeeksforGeeks
-- Experienced in **REST API design**, **JWT authentication**, and **Spring Boot**
+- Experienced in **REST API design** and **Spring Boot**
 - Exploring **Cloud Architecture** and **AWS**
 - **Open to Work** — Remote-friendly 🌍
 - Debugging enthusiast: `console.log` and proud of it ⚡
@@ -37,11 +37,11 @@
 
 ## Featured Projects
 
+- **Recursion Visualizer** — JavaScript, React,
+  Interactive tool to visualise recursive function calls as animated tree structures — great for learning DSA concepts.
+  
 - **AI Email Assistant** — Python, Streamlit, LLM API  
   Smart email assistant that drafts, summarises & replies to emails using AI. Built with a clean UI and LLM integration.
-
-- **Recursion Visualizer** — JavaScript, React, Canvas  
-  Interactive tool to visualise recursive function calls as animated tree structures — great for learning DSA concepts.
 
 - **InfoThiranAI** — Chrome Extension, JavaScript, AI  
   Chrome extension & AI assistant helping students analyse information, generate smart notes, and understand concepts faster. Improves student productivity and learning efficiency.
@@ -70,21 +70,7 @@
 
 ---
 
-## GitHub Stats
-
-![Yuvanesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yuvnex&show_icons=true&theme=default&hide_border=true&count_private=true&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvnex&layout=compact&theme=default&hide_border=true&langs_count=6)
-
----
-
 ## Coding Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yuvnex&theme=minimal&hide_border=true&area=true&color=378ADD&line=378ADD&point=378ADD)
 
----
-
-> *"First, solve the problem. Then, write the code."* — John Johnson
-
-![Profile Views](https://komarev.com/ghpvc/?username=Yuvnex&style=flat-square&color=378ADD)
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=378ADD&height=100&section=footer)
